@@ -147,6 +147,8 @@ The apt repository contains packages for both x86-64 and arm64.
     ```
     sudo zypper install sublime-text
     ```
+![image](https://github.com/user-attachments/assets/83adf1dd-ff85-49fa-a205-5444a9f8c58d)
+
 
 ## MacOS
 
@@ -173,6 +175,9 @@ python patcher.py -i sublime_text.exe -o sublime_text.exe
 ```
 python patcher.py -i sublime_text
 ```
+
+
+
 
 ## Patch Manually
 
